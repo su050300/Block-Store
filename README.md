@@ -46,3 +46,6 @@
 * Using of decentralized system to store files provides the user more security as our files are at great risk if they are in the hands of a single individual (they can access our personal data and can sell it).
 * Global space where anyone can post any type of file ( pdf,video,image,txt) to share with other users.
 * Users can also <b>request for a particular content</b> file in the global space by posting a request
+
+### Link to the video ::
+https://www.youtube.com/watch?v=ejIyZYQrGJA&list=LLKHncGYyuAcRf1L3vupXrUw&index=5
